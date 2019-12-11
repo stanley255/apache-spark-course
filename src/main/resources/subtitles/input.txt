@@ -14068,7 +14068,7 @@ what I've done here is
 
 572
 00:29:51,425 --> 00:29:54,128
-I've created under Source, Main Resources,
+I've created under Source, _16_SparkSQL Resources,
 
 573
 00:29:54,128 --> 00:29:57,961
@@ -17096,7 +17096,7 @@ Now, our presence in this application,
 
 124
 00:05:52,762 --> 00:05:55,338
-if we check under Source Main Resources,
+if we check under Source _16_SparkSQL Resources,
 
 125
 00:05:55,338 --> 00:05:57,011
@@ -19667,7 +19667,7 @@ for this project, then,
 
 699
 00:35:15,404 --> 00:35:17,933
-under Source Main Resources,
+under Source _16_SparkSQL Resources,
 
 700
 00:35:17,933 --> 00:35:22,196
